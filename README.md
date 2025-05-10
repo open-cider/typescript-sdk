@@ -1,4 +1,4 @@
-# Open Cider.js Library
+# Open Cider Typescript Library
 This package provides core functionality for the Open Cider API. This is a low-backend solution that offers user authentication and management, as well as cloud storage, leaderboard, and friends functions to allow you quickly prototype and build more comprehensive apps and games to ship fast while focusing only on what matters most. Visit [www.opencider.com](www.opencider.com/documentation) for more.
 
 # Usage
