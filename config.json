@@ -1,0 +1,11 @@
+{
+    "login": {
+        "origin_url": "https://app.opencider.com",
+        "request_url": "https://app.opencider.com/sso/",
+        "service_key_prefix": "cidsvc:"
+    },
+    "request": {
+        "base_url": "https://api.opencider.com/user/",
+        "service_user_token_prefix": "cidstkn:"
+    }
+}

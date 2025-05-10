@@ -1,0 +1,25 @@
+{
+  "name": "opencider-sdk",
+  "version": "0.1.1",
+  "description": "Official Open Cider API Core Typescript SDK",
+  "main": "src/index.ts",
+  "types": "dist/package.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend", "backend-as-a-service",
+    "auth", "password", "data", "store", "leaderboard",
+    "firebase", "supabase", "appwrite"
+  ],
+  "type": "module",
+  "author": "Open Cider Limited",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "axios": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "save-dev": "0.0.1-security",
+    "typescript": "^5.0.4"
+  }
+}
